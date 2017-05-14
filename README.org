@@ -1,0 +1,12 @@
+* How to run
+
+Clone this repository and use the following command to run the notebook
+#+BEGIN_SRC sh
+./run.sh
+#+END_SRC
+Please note that this will require Docker to be installed.
+
+Otherwise you can install all required dependencies in your virtual environment
+#+BEGIN_SRC sh
+pip install -r requirements.txt
+#+END_SRC
