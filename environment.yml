@@ -1,9 +1,11 @@
 channels:
 - defaults
+- conda-forge
 dependencies:
 - numpy=1.12.1
 - pandas=0.19.2
-- ipyleaflet=0.3.0
 - shapely=1.5.17
 - plotly=2.0
-- ipywidgets=6.0.0
+- ipython=6.1
+- ipywidgets=7.0
+- ipyleaflet=0.5
